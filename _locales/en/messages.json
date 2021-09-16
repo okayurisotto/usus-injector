@@ -1,0 +1,14 @@
+{
+  "extensionAuthor": {
+    "message": "okayurisotto"
+  },
+  "extensionDescription": {
+    "message": "Demonstration of developing a web browser extension with TypeScript."
+  },
+  "extensionHomepageUrl": {
+    "message": "https://github.com/okayurisotto/webext-ts-template"
+  },
+  "extensionName": {
+    "message": "WebExt TS Template"
+  }
+}

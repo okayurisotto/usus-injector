@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extensionName__",
+  "version": "0.0.0",
+  "description": "__MSG_extensionDescription__",
+  "homepage_url": "__MSG_extensionHomepageUrl__",
+  "author": "__MSG_extensionAuthor__",
+  "default_locale": "en",
+  "background": {
+    "scripts": ["/js/background.js"]
+  },
+  "options_ui": {
+    "page": "/html/options.html"
+  },
+  "permissions": []
+}
