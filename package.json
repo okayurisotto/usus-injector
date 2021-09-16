@@ -1,8 +1,8 @@
 {
-  "name": "webext-ts-template",
+  "name": "usus-injector",
   "version": "0.0.0",
-  "description": "Demonstration of developing a web browser extension with TypeScript.",
-  "repository": "git@github.com:okayurisotto/webext-ts-template.git",
+  "description": "Simple UserStyles & UserScripts manager.",
+  "repository": "git@github.com:okayurisotto/usus-injector.git",
   "author": "okayurisotto <47853651+okayurisotto@users.noreply.github.com>",
   "license": "CC0-1.0",
   "private": true,

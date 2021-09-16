@@ -1,13 +1,14 @@
-# webext-ts-template
+# USUS.Injector
 
 ## About
 
-Demonstration of developing a web browser extension with TypeScript.
+Simple UserStyles & UserScripts manager.
 
 ## Environment
 
 - Arch Linux
 - Firefox Developer Edition
+  - 93.0b3
 
 ## License
 

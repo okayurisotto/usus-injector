@@ -12,5 +12,5 @@
   "options_ui": {
     "page": "/html/options.html"
   },
-  "permissions": []
+  "permissions": ["storage", "webNavigation", "http://*/*", "https://*/*"]
 }

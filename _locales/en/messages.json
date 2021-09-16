@@ -3,12 +3,18 @@
     "message": "okayurisotto"
   },
   "extensionDescription": {
-    "message": "Demonstration of developing a web browser extension with TypeScript."
+    "message": "Simple UserStyles & UserScripts manager."
   },
   "extensionHomepageUrl": {
-    "message": "https://github.com/okayurisotto/webext-ts-template"
+    "message": "https://github.com/okayurisotto/usus-injector"
   },
   "extensionName": {
-    "message": "WebExt TS Template"
+    "message": "USUS.Injector"
+  },
+  "optionSubmit": {
+    "message": "Save"
+  },
+  "optionSubmitted": {
+    "message": "Saved"
   }
 }
